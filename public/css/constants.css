@@ -1,0 +1,35 @@
+/* height */
+
+.h-30{
+    height: 30% !important;
+}
+
+.h-40{
+    height: 40% !important;
+}
+
+.h-60{
+    height: 60% !important;
+}
+
+.h-70{
+    height: 70% !important;
+}
+
+/* width */
+
+.w-128px{
+    width: 128px  !important;
+}
+
+.w-300px{
+    width: 300px !important;
+}
+
+
+/*  border-radius */
+
+.rounded-10-top{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
